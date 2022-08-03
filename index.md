@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to NiGu Games
 
 You can use the [editor on GitHub](https://github.com/NiGu-Games/Labyrinth-Madness/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
